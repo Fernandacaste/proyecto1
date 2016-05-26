@@ -1,3 +1,4 @@
 import proyecto1
-opcion=int(input("Ingrese numero"))
-print(proyecto1.prob_1(opcion))
+numero=int(input("Ingrese base:"))
+numero2=int(input("ingrese potencia:"))
+print(proyecto1.prob_3(numero, numero2))

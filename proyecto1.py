@@ -3,3 +3,9 @@ def prob_1 (n):
 		return True
 	else:
 		return False
+def prob_2 (n):
+	return 5/9*(n-32)
+def prob_3 (n,m):
+	return n**m
+def prob_4 (n,m):
+	
